@@ -15,6 +15,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Gmunu"
+    url: /gmunu/
+    
   - title: "CV"
     url: /cv/
     

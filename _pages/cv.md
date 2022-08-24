@@ -9,51 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* N3AS postdoctoral fellow (Oct 2022 -- present)
+  * University of California, Berkeley, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Research associate (Oct 2021 -- Oct 2022)
+  * The Chinese University of Hong Kong, Kong Kong 
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D. in Physics, The Chinese University of Hong Kong, Hong Kong, 2021
+* B.Sc. in Electrophysics, National Chiao Tung University, Hsinchu, Taiwan, 2016
+* B.Sc. in The Undergraduate Honours Program of Interdisciplinary Science, National Chiao Tung University, Hsinchu, Taiwan, 2016
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+My (short author list) publications from [NASA/ADS](https://ui.adsabs.harvard.edu/public-libraries/BeKrFyjKT0ypgnazhXEKxw)
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Main developer of Gmunu
+
+Full CV
+======
+A copy of my CV can be found [here](http://kidcheong.github.io/files/cv.pdf).
