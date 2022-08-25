@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Personal"
+permalink: /personal/
+author_profile: true
+---
+
+{% include base_path %}
+
+Daily essentials
+------
+I wear boots.
+<center><figure><img src="/images/other/wesco_jobmaster.jpg" alt="Trulli" style="width:35%"><figcaption align = "center"><b>Fig.1 - Wesco Jobmaster</b></figcaption></figure></center>
+
