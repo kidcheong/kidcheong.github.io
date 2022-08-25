@@ -33,6 +33,5 @@ Service and leadership
 
 Full CV
 ======
-A copy of my CV can be found [here](http://kidcheong.github.io/files/cv.pdf).
-<a href="http://kidcheong.github.io/files/cv.pdf" target="_blank">Hello, world!</a>
+A copy of my CV can be found <a href="http://kidcheong.github.io/files/cv.pdf" target="_blank">here</a>.
 
