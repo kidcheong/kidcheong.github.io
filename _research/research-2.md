@@ -48,5 +48,6 @@ They are
 1. hyperbolic cleaning through a generalised Lagrange multiplier; 
 2. constrained transport schemes and 
 3. elliptic cleaning by means of multigrid solver.
+
 In this work, I have shown that combining staggered constrained transport scheme with elliptic cleaning could significantly suppress the amplitude of the ``magnetic monopoles'', and is expected to enable ultra-long accurate MHD simulations.
 

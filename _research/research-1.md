@@ -14,4 +14,4 @@ Different physical effects are imprinted on the gravitational wave of the inspir
 Although the gravitational wave of the inspiral phase and post-merger phase are well understood, there is still a gap between the inspiral and post-merger signals.
 
 Until recently, the connection between inspiral and post-merger signals is gaining clarity by investigating how the gravitational wave signals at the merger can be used to probe the <sup>2</sup>f-mode of two initial neutron stars.
-In this work, I collaborated with another student I supervised to provide a very natural interpretation of a universal behaviour of the gravitational-wave frequency at merger reported in previous works, but whose physical origin had not been fully understood.
+In this work, we provide a very natural interpretation of a universal behaviour of the gravitational-wave frequency at merger reported in previous works, but whose physical origin had not been fully understood.

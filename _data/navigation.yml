@@ -1,19 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Research"
     url: /research/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Gmunu"
     url: /gmunu/
@@ -23,6 +11,3 @@ main:
     
   - title: "Personal"
     url: /personal/
-    
-  - title: "Guide"
-    url: /markdown/
