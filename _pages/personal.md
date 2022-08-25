@@ -13,7 +13,7 @@ I wear boots.
 
 <figure><img src="/images/other/wesco_jobmaster.jpg" alt="Trulli" style="width:35%"><figcaption align = "center"><b>Fig.1 - Wesco Jobmaster</b></figcaption></figure>
 
-<p align = "center"><img src = "/images/other/wesco_jobmaster.jpg"></p><p align = "center">
+<p align = "center"><img src = "/images/other/wesco_jobmaster.jpg" style="width:35%"></p><p align = "center">
 Fig.1 - Wesco Jobmaster
 </p>
 
