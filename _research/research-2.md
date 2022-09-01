@@ -6,7 +6,7 @@ For example, general relativity is required to account for the extremely strong 
 Since the corresponding equations are highly non-linear and fully coupled with each other, they cannot be described analytically.
 First-principles numerical simulation is probably the only possible way to accurately model the evolution of these extreme compact objects.
 To accurately model these astrophysical systems, I develop and implement large-scale high-performance computing general-relativistic simulation codes.
-<br/><img src='/images/research/jet_hydro.png' style="width:35%>"
+<br/><img src='/images/research/jet_hydro.png'>"
 collection: research 
 ---
 

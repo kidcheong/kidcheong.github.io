@@ -3,7 +3,7 @@ title: "Neutron star astrophysics"
 excerpt: "Neutron stars are probably the most compact and extreme magnetised astrophysical objects in the universe.
 The unbelievably intense magnetic fields they carry are known to be responsible for many astrophysical phenomena.
 Therefore, understanding the astrophysics of these extreme compact objects are the key to solve many puzzling problems on highly energetic astrophysical phenomena.
-<br/><img src='/images/research/HMNS_3d_xy.png' style="width:35%>"
+<br/><img src='/images/research/HMNS_3d_xy.png'>"
 collection: research
 ---
 
