@@ -1,11 +1,24 @@
 ---
 title: 'Code implementation'
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "
+To describe such extreme astrophysical systems, proper physics needs to be taken into account.
+For example, general relativity is required to account for the extremely strong gravitational fields, relativistic magnetohydrodynamics is necessary to describe the dynamics of plasma.
+Since the corresponding equations are highly non-linear and fully coupled with each other, they cannot be described analytically.
+First-principles numerical simulation is probably the only possible way to accurately model the evolution of these extreme compact objects.
+To accurately model these astrophysical systems, I develop and implement large-scale high-performance computing general-relativistic simulation codes.
+<br/><img src='/images/research/jet_hydro.png' style="width:35%>"
 collection: research 
 ---
 
 The birth of Gmunu ([DOI](http://dx.doi.org/10.1088/1361-6382/ab8e9c))
 ------
+
+### Gmunu: toward multigrid based Einstein field equations solver for general-relativistic hydrodynamics simulations
+**P. C.-K. Cheong**,
+L.-M. Lin,
+T. G. F. Li, 
+in: [Class. Quantum Grav. 37 145015](https://iopscience.iop.org/article/10.1088/1361-6382/ab8e9c)
+
 Numerical relativity is the essential tool for simulating astrophysical systems at extreme gravity.
 Einstein equations in dynamical simulations are conventionally solved with hyperbolic free-evolution schemes such as the so-called BSSN, conformally and covariant Z4 (CCZ4), and Z4c schemes.
 However, these schemes may not suitable for ultra-long term simulations, the constraint equations will be largely violated eventually due to accumulating numerical errors.
@@ -21,6 +34,14 @@ Gmunu is the first, so far the only, code that adopts multigrid metric solver in
 
 Framework enhancement of Gmunu ([DOI](10.1093/mnras/stab2606))
 ------
+
+### Gmunu: paralleled, grid-adaptive, general-relativistic magnetohydrodynamics in curvilinear geometries in dynamical space-times
+**P. C.-K. Cheong**,
+H. H.-Y. Ng,
+A. T.-L. Lam,
+T. G. F. Li, 
+in: [MNRAS 508.2 (Dec. 2021), pp. 2279–2301](https://academic.oup.com/mnras/article/508/2/2279/6371116)
+
 Depending on the nature of the astrophysical scenarios considered, different coordinate systems could be used to capture the physics and information better.
 Also, the lengthscales and timescales involved in different parts of the systems typically differ by several orders of magnitude.
 Hence, to numerically model these systems accurately within a reasonable time and affordable computational resources, a parallelised, multi-scale and multi-dimensional code that supports various curvilinear geometries is the panacea.
@@ -35,6 +56,14 @@ This enhancement transforms Gmunu from an axisymmetric prototype to a practical 
 
 Resistive MHD extension of Gmunu ([DOI](10.3847/1538-4365/ac6cec))
 ------
+
+### An Extension of Gmunu: General-relativistic Resistive Magnetohydrodynamics Based on Staggered-meshed Constrained Transport with Elliptic Cleaning 
+**P. C.-K. Cheong**,
+D. Y. T. Pong,
+A. K. L. Yip,
+T. G. F. Li, 
+in: [ApJS 261.2, 22 (Aug. 2022), p. 22](https://iopscience.iop.org/article/10.3847/1538-4365/ac6cec)
+
 Assuming vanishing electrical resistivity prevents some important physical processes such as dissipation and magnetic reconnection.
 Magnetic reconnection can not only change the magnetic field's topology, but also convert magnetic energy into other forms of energy such as heat and kinetic energy within very short time-scales.
 These processes, although usually occurring at very small length-scales, could significantly affect the large scale dynamics of the plasmas.
