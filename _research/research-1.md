@@ -1,6 +1,9 @@
 ---
 title: "Neutron star astrophysics"
-excerpt: "Neutron star astrophysicsssss<br/><img src='/images/500x300.png'>"
+excerpt: "Neutron stars are probably the most compact and extreme magnetised astrophysical objects in the universe.
+The unbelievably intense magnetic fields they carry are known to be responsible for many astrophysical phenomena.
+Therefore, understanding the astrophysics of these extreme compact objects are the key to solve many puzzling problems on highly energetic astrophysical phenomena.
+<br/><img src='/images/research/fig_HD_HMNS_3D_xy_no_axis_10ms.jpg'>"
 collection: research
 ---
 
@@ -10,6 +13,15 @@ Therefore, understanding the astrophysics of these extreme compact objects are t
 
 Gravitational-wave asteroseismology ([DOI](10.3847/1538-4357/ac0141))
 -----
+###Gravitational-wave Asteroseismology with f-modes from Neutron Star Binaries at the Merger Phase
+
+H. H.-Y. Ng,
+**P. C.-K. Cheong**,
+L.-M. Lin,
+T. G. F. Li
+
+in : [ApJ 915.2, 108 (July 2021), p. 108](https://iopscience.iop.org/article/10.3847/1538-4357/ac0141)
+
 Different physical effects are imprinted on the gravitational wave of the inspiral and post-merger phases of a binary neutron star system.
 Although the gravitational wave of the inspiral phase and post-merger phase are well understood, there is still a gap between the inspiral and post-merger signals.
 
